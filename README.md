@@ -4,7 +4,7 @@
 
 ![Simon Gardling's github stats](https://github-readme-stats.vercel.app/api?username=Titaniumtown&show_icons=true&theme=gruvbox)
 
-My gitlab (where I have a lot of other projects too: https://gitlab.com/Titaniumtown/tradeogre-trading-bot
+My gitlab (where I have a lot of other projects too: https://gitlab.com/Titaniumtown
 
 
 #### Donations
