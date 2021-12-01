@@ -6,6 +6,8 @@
 
 My gitlab (where I have a lot of other projects too: https://gitlab.com/Titaniumtown
 
+I also am the developer of [JettPack](https://gitlab.com/Titaniumtown/JettPack) an experimental Minecraft Server software. 
+
 
 #### Donations
 If you like my work and want to see me continue, feel free to donate!
