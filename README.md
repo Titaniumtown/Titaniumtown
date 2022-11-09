@@ -1,10 +1,8 @@
 ### Hello there
 
-- Discord: Jettison Jerry#4449
+![github stats](https://github-readme-stats.vercel.app/api?username=Titaniumtown&show_icons=true&theme=gruvbox)
 
-![Simon Gardling's github stats](https://github-readme-stats.vercel.app/api?username=Titaniumtown&show_icons=true&theme=gruvbox)
-
-My gitlab (where I have a lot of other projects too: https://gitlab.com/Titaniumtown)
+My gitlab (where I have some other projects too): https://gitlab.com/Titaniumtown
 
 #### Donations
 If you like my work and want to see me continue, feel free to donate!
